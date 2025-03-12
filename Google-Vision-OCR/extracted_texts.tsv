@@ -1,0 +1,58 @@
+filename	text
+samplenews.jpg	"Man Found Dead
+In Boat On Lake
+-
+INDIAN LAKE A 53-year taine priest, was called to ad-
+old Cincinnatian, vacationing with minister the last rites after it
+his wife, eight children and 18 was learned the Russells Point
+grandchildren at the lake, suf-priest was away from his parish.
+fered a fatal heart attack Tues- There were no fishing poles in-
+day as he rowed his boat after the boat and relatives theorized
+the motor had sheared a pin. He he was just going for a ride.
+had been out on the lake only a Dr. Kaylor said relatives told
+little more than ten minutes. him he had recently visited a
+Edmund F. Muenchen, a furni-doctor, where he complained of
+ture dealer in the Queen City, was shoulder pains. He had been doc-
+alone in the boat.
+toring for a flu attack.
+Dr. Frederick Kaylor, Logan His body was returned to Cin-
+County coroner, ruled 11:07 as cinnati for final arrangements.
+time of death, resulting from a
+heart attack.
+The victim was seen by Mrs. 2 Rescue Crews
+Paul Leary as he slumped over
+in the boat, drifting toward Para-
+dise Island. He was only a short Seek Lost Plane
+distance around a bend in the
+lake, north of his rented cottage GUAYAQUIL, Ecuador. (AP)-
+at White Cottage Park. An early Two rescue parties struggled up
+report, one of his grandchildren 15,423-foot-high Mt. Pichincha to
+was with him, was quickly dis-day, trying to reach the wreckage
+counted. Lakeview fire depart-of a U.S. military transport in
+ment emergency squad, Lake which it was feared 18 persons
+Shore Patrol, sheriff's deputies died.
+and Dr. Kaylor arrived shortly Air searchers spotted the wreck-
+after at the scene. Efforts to re-age 14,000 feet up the mountain
+vive the man were futile.
+Tuesday and reported they saw no
+1 Rev. Charles Conrad, Bellefon-sign of life."
+Screenshot 2025-03-11 121424.png	"public class Book {
+String title; String author; int year;
+// Constructor with two parameters
+public Book(String title, String author) {
+this.title = title;
+this.author
+// Constructor with three parameters
+author; }
+public Book(String title, String author, int year) {
+this.title title;
+=
+=
+this.author author; this year year; }
+public void displayDetails() {
+System.out.println(""Title: "" + title + "", Author: "" + author + "", Year: ""+ year);
+} public static void main(String[] args) {
+Book book1 = new Book(""1984"", ""George Orwell"");
+Book book2= new Book(""To Kill a Mockingbird"", ""Harper Lee"", 1960);
+book2.displayDetails(); } }
+book1.displayDetails();"
