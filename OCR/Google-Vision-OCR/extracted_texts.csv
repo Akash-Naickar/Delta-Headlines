@@ -1,0 +1,118 @@
+image_id,filename,text,text_length,processing_status,processed_date,category
+req,req.png,"Anaconda Prompt
+expat
+libffi
+openssl
+pip
+python
+setuptools
+sqlite
+tk
+tzdata
++
+pkgs/main/win-64: : expat-2.6.4-h8ddb27b_0
+pkgs/main/win-64: :libffi-3.4.4-hd77b12b_1
+pkgs/main/win-64::openssl-3.0.15-h827c3e9_0
+pkgs/main/win-64::pip-25.0-py312haa95532_0
+pkgs/main/win-64: : python-3.12.0-h1d929f7_0
+pkgs/main/win-64::setuptools-75.8.0-py312haa95532_0
+pkgs/main/win-64: :sqlite-3.45.3-h2bbff1b_0
+pkgs/main/win-64::tk-8.6.14-h0416ee5_0
+pkgs/main/noarch: :tzdata-2025a-h04d1e81_0
+pkgs/main/win-64: :vc-14.42-haa95532_4
+VC
+vs2015_runtime
+pkgs/main/win-64: :vs2015_runtime-14.42.34433-he0abc0d_4
+wheel
+XZ
+zlib
+pkgs/main/win-64:: wheel-0.45.1-py312haa95532_0
+pkgs/main/win-64: :xz-5.6.4-h4754444_1
+pkgs/main/win-64: : zlib-1.2.13-h8cc25b3_1
+Proceed ([y]/n)? conda activate gcp-cloud-vision
+Invalid choice: conda activate gcp-cloud-vision
+Proceed ([y]/n)? conda install -c conda-forge pillow=10.1.0 pandas-2.1.2 google-cloud-vision=3.4.5 scikit-learn-1.3.2 ipykernel jupyterlab notebook
+Invalid choice: conda install -c conda-forge pillow=10.1.0 pandas-2.1.2 google-cloud-vision=3.4.5 scikit-learn-1.3.2 ipykernel jupyterlab notebook
+Proceed ([y]/n)? python -m ipykernel install --user --name=gcp-cloud-vision
+Invalid choice: python -m ipykernel install --user --name=gcp-cloud-vision
+Proceed ([y]/n)? y
+Downloading and Extracting Packages:
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#
+$ conda activate gcp-cloud-vision
+#
+# To deactivate an active environment, use
+#
+#
+$ conda deactivate
+(base) C:\Users\Akash KG>|
+31°C
+Partly sunny
+Q Search
+L
+IM
+.0
+ENG
+4) O
+IN
+13:30
+28-02-2025",1649,success,2025-03-07 13:17:47,uncategorized
+sampleimg,sampleimg.jpeg,"FOOTBALL >
+INDIA: I-LEAGUE - ROUND 17
+DELHI FC
+Delhi FC
+02.03.2025 14:00
+Dempo",78,success,2025-03-07 13:17:49,uncategorized
+samplenews,samplenews.jpg,"Man Found Dead
+In Boat On Lake
+-
+INDIAN LAKE A 53-year taine priest, was called to ad-
+old Cincinnatian, vacationing with minister the last rites after it
+his wife, eight children and 18 was learned the Russells Point
+grandchildren at the lake, suf-priest was away from his parish.
+fered a fatal heart attack Tues- There were no fishing poles in-
+day as he rowed his boat after the boat and relatives theorized
+the motor had sheared a pin. He he was just going for a ride.
+had been out on the lake only a Dr. Kaylor said relatives told
+little more than ten minutes. him he had recently visited a
+Edmund F. Muenchen, a furni-doctor, where he complained of
+ture dealer in the Queen City, was shoulder pains. He had been doc-
+alone in the boat.
+toring for a flu attack.
+Dr. Frederick Kaylor, Logan His body was returned to Cin-
+County coroner, ruled 11:07 as cinnati for final arrangements.
+time of death, resulting from a
+heart attack.
+The victim was seen by Mrs. 2 Rescue Crews
+Paul Leary as he slumped over
+in the boat, drifting toward Para-
+dise Island. He was only a short Seek Lost Plane
+distance around a bend in the
+lake, north of his rented cottage GUAYAQUIL, Ecuador. (AP)-
+at White Cottage Park. An early Two rescue parties struggled up
+report, one of his grandchildren 15,423-foot-high Mt. Pichincha to
+was with him, was quickly dis-day, trying to reach the wreckage
+counted. Lakeview fire depart-of a U.S. military transport in
+ment emergency squad, Lake which it was feared 18 persons
+Shore Patrol, sheriff's deputies died.
+and Dr. Kaylor arrived shortly Air searchers spotted the wreck-
+after at the scene. Efforts to re-age 14,000 feet up the mountain
+vive the man were futile.
+Tuesday and reported they saw no
+1 Rev. Charles Conrad, Bellefon-sign of life.",1769,success,2025-03-07 13:17:50,uncategorized
+san,san.jpeg,"Equivation Relation:
+A relation R on e
+set A
+is called an Equivalence
+Relation if its is reflexive, symmetric s transitive.
+Egerivalent Elements:
+Two elements of set
+who relakd
+by equivalener
+are
+called Equiralant Elements",222,success,2025-03-07 13:17:51,uncategorized
